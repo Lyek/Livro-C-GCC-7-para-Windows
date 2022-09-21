@@ -1,5 +1,5 @@
-//C04EX04.CPP
-//utilizando laço pós-teste c/ fluxo verdadeiro //
+//C04EX07.CPP
+//utilizando laÃ§o pÃ³s-teste c/ fluxo verdadeiro //
 #include <iostream>
 using namespace std;
 
